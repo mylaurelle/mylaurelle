@@ -2,6 +2,7 @@
 Hello, my name is **Saputra**, I am from **[Indonesia](https://en.m.wikipedia.org/wiki/Indonesia)**. I'm just a person who wants to learn programming according to my interests.
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mylaurelle&show_icons=true&theme=radical)
+[![Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mylaurelle&theme=monokai)](https://github.com/mylaurelle)
 ## I'm a Teen, Developer and Freelance!!
 
 - 🌱 I’m currently learning everything 🤣
