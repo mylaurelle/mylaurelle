@@ -1,4 +1,6 @@
 ### Hi there, I'm Laurelle 👋
+Hello, my name is **Saputra**, I am from **[Indonesia](https://en.m.wikipedia.org/wiki/Indonesia)**. I'm just a person who wants to learn programming according to my interests.
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mylaurelle&show_icons=true&theme=radical)
 ## I'm a Teen, Developer and Freelance!!
 
